@@ -1,0 +1,15 @@
+/* Variables */
+
+:root {
+    --main-color: '#a476a6f';
+    --white-color: '#ffffff';
+    --black-color: '#0f0e0e';
+    --yellow-color: 'dea54b';
+    --red-color: '#820933';
+}
+
+@media screen and (max-width: 700px ) {
+    #search-navbar {
+        display: none;
+    }
+}
